@@ -3,17 +3,23 @@
   padding:0px;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+
+.paragraph {
+  background-color: #FFCCCB;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
+#secondline {
+  color: #0000FF;
+  font-size: 36px;
+}
 
+.paragraph.thirdparagraph {
+  font-size: 24px;
+  
+}
 
-div {
-  background-color: red;
-  text-align: center;
-  font-size: 25px;
-  color: white;
+.paragraph.fourthparagraph {
+  background-color: hsl(120,73%,75%);
+ font-size: 24px;
 }
